@@ -1,0 +1,1 @@
+{"name":"query_vectors","title":"Query Vectors","description":"Search a namespace using a query vector. Retrieves the IDs of the most similar items in a namespace, along with their similarity scores."}
