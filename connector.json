@@ -1,0 +1,1 @@
+{"name":"pinecone","version":"1.0","title":"Pinecone","description":"Perform actions in your Pinecone instance","service":{"name":"pinecone","version":"1"},"tags":["service"],"isTrigger":false,"rawHttp":{"enabled":true}}
